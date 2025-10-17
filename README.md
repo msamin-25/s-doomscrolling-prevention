@@ -13,57 +13,7 @@ This Chrome extension **automatically tracks** your time on social media and **s
 - ✅ **Customizable time limits** for each platform
 - ✅ **Daily statistics** and streak tracking
 
----
-
-## 📁 Step 1: Create the Extension Files
-
-Create a new folder called `mindful-scroll-tracker` and add these files:
-
-### File Structure:
-
-```
-mindful-scroll-tracker/
-├── manifest.json
-├── background.js
-├── content.js
-├── content.css
-├── popup.html
-├── popup.js
-└── icons/
-    ├── icon16.png
-    ├── icon48.png
-    └── icon128.png
-```
-
-### Create the Files:
-
-1. **manifest.json** - Copy the manifest file content
-2. **background.js** - Copy the background service worker code
-3. **content.js** - Copy the content script code
-4. **content.css** - Copy the CSS styles
-5. **popup.html** - Copy the popup HTML
-6. **popup.js** - Copy the popup JavaScript
-
----
-
-## 🎨 Step 2: Create Icons
-
-You need 3 icon images in the `icons/` folder:
-
-**Option A: Use placeholder icons temporarily**
-
-- Download any square images and name them `icon16.png`, `icon48.png`, `icon128.png`
-- Sizes: 16x16, 48x48, 128x128 pixels
-
-**Option B: Create custom icons**
-
-- Use a tool like Canva, Figma, or Photoshop
-- Create square icons with an eye (👁️) or clock (⏰) theme
-- Save as PNG with transparent background
-
----
-
-## 🔧 Step 3: Load Extension in Chrome
+## Load Extension in Chrome
 
 1. **Open Chrome** and go to:
 
@@ -87,10 +37,10 @@ You need 3 icon images in the `icons/` folder:
 
 ---
 
-## 🎯 Step 4: Set Your Limits
+## Set Your Limits
 
 1. Click the extension icon in your toolbar
-2. Set your time limits for each platform:
+2. Set your time limits according to you for each platform:
    - Instagram: 20 minutes (default)
    - Facebook: 20 minutes (default)
    - YouTube: 30 minutes (default)
@@ -255,4 +205,4 @@ Your Chrome extension is now tracking your social media time automatically!
 
 Open Instagram, Facebook, YouTube, or TikTok and watch the magic happen. The extension icon will show your active sessions, and you'll get notified when it's time for a break.
 
-**Remember**: The goal isn't to never use social media - it's to use it mindfully and intentionally! 🌟
+**Remember**: The goal isn't to never use social media - it's to use it mindfully and intentionally!
