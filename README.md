@@ -1,7 +1,5 @@
 # 🚀 Mindful Scroll Tracker - Chrome Extension Installation Guide
 
-## 📋 What You'll Need
-
 This Chrome extension **automatically tracks** your time on social media and **sends notifications** when you reach your limits!
 
 ### Features:
@@ -195,7 +193,7 @@ A: Currently no, but you can modify the code to redirect after time limit.
 A: Only if you enable it for Incognito in `chrome://extensions/`
 
 **Q: Can I use this in other browsers?**
-A: It works in any Chromium browser (Edge, Brave, Opera) with minor adjustments.
+A: Yes, it works in any Chromium browser (Edge, Brave, Opera) with minor adjustments.
 
 ---
 
